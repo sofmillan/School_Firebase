@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006078092776",
+    "project_id": "colegio-sabado21",
+    "storage_bucket": "colegio-sabado21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006078092776:android:71f1ed30d2f5515607705d",
+        "android_client_info": {
+          "package_name": "com.example.colegio_sabado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006078092776-37p4fmi5d8pne2qetibd7vps5bpgk76t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3EUFZXQH_upw3wqCSybAZK7BC1dtuvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006078092776-37p4fmi5d8pne2qetibd7vps5bpgk76t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
